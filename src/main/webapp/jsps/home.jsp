@@ -4,16 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>LandmarkTechnologies- Home Page</title>
+<title>Carine Tech- Home Page</title>
 <link href="images/mylandmarklogo.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Project.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires and billionaires IT professionals in over 50 nations.
-	We offer Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
-	Class34 DevOps MasterClass will start on Oct 14, 2023. </h1>
+<h1 align="center">Welcome to Carine's Project.</h1>
+<h1 align="center"> We'll be deploying a full CICD Jenkins pipeline from Github to Kubernetes using the rolling update deployment strategy. </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -32,23 +29,23 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mylandmarklogo.png" alt="" width="150">
+		<img src="images/mylandmarklogo.png" alt="" width="1">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
+                Carine Tech, 
 		Toronto, Canada
 		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		carinetech@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:carinetech@gmail.com">Mail to Carine  Tech</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center> Landmark Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p align=center> Carine Tech - Consultant, Training and Software Development</p>
+<p align=center><small>Copyrights 2021 by <a href="http://Carinetech.com/">Carine Tech</a> </small></p>
 
 </body>
 </html>
