@@ -1,7 +1,7 @@
 pipeline{
   agent any 
   tools{
-    maven "maven3.8.4"
+    maven "maven3.9.5"
   }
   stages{
     stage('GitClone'){
@@ -35,7 +35,7 @@ pipeline{
       steps{
         sh "echo creating docker image"
         sh "docker build -t mylandmarktech/maven-web-app . "
-        sh "docker push mylandmarktech/maven-web-app"
+        sh "docker push carinetech/maven-webapp"
       }
     }
     stage('UnDeploy'){
@@ -47,7 +47,7 @@ pipeline{
     stage('deployment'){
       steps{
         sh "echo application ready for deployment"
-        sh "docker run -d -p 8000:8080 --name webapp mylandmarktech/maven-web-app"
+        sh "docker run -d -p 8000:8080 --name webapp carinetech/maven-webapp"
       }
     }
   stage('emailNotification'){
