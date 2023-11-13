@@ -22,9 +22,9 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://http://3.99.217.38/:9000/</sonar.host.url> 
+		<sonar.host.url>http://3.141.17.197:9000/</sonar.host.url> 
 		<sonar.login>admin</sonar.login>
-		<sonar.password>admin123</sonar.password> 
+		<sonar.password>admin</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
@@ -94,14 +94,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.217.27.159:8081/repository/tesla-releases/</url>
+	      <name>Sysmsify Releases Nexus Repository</name>
+	      <url>http://3.131.151.234:8081/repository/sysmsify-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.217.27.159:8081/repository/tesla-snapshots/</url>
+	      <name>Sysmsify Snapshot Nexus Repository </name>
+	      <url>http://3.131.151.234:8081/repository/Sysmsify-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
