@@ -1,16 +1,16 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+ <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ page import="java.net.*" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Carine Tech- Home Page</title>
+<title>HighVail Systems Inc- Home Page</title>
 <link href="images/mylandmarklogo.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Carine's Project.</h1>
-<h1 align="center"> We'll be deploying a full CICD Jenkins pipeline from Github to Kubernetes using the rolling update deployment strategy. </h1>
+<h1 align="center">Welcome to HighVail Systems Inc.</h1>
+<h1 align="center"> We'll be deploying a full CICD Jenkins pipeline from Github to Kubernetes. </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
