@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to HighVail Systems Inc.</h1>
-<h1 align="center"> We'll be deploying a full CICD Jenkins pipeline from Github to Kubernetes. </h1>
+<h1 align="center"> We have been in business for over 20 years helping customers build secure environment to deploy their application. </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
