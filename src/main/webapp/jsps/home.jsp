@@ -9,8 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to HighVail. HighVail is a services-led organization that takes a modern approach to how applications are deployed, managed, and the infrastructure they run on.</h1>
-<h1 align="center"> We have been in business for over 20 years helping customers build secure environment to deploy their application. </h1>
+<h1 align="center">Welcome to HighVail. HighVail is a services-led organization that takes a modern approach to how applications are deployed, managed, and the infrastructure they run on.
+We are prooud to be celebrating 20 years in business. HighVail leads, supports and enables organizations as we help drive IT innovation.</h1>
+<h1 align="center"> This Demo is a full deployment of Continous Integration and Continous Deployment using Jenkins as an automation tool. </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
