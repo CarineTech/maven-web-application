@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to HighVail Systems Inc.</h1>
+<h1 align="center">Welcome to HighVail. HighVail is a services-led organization that takes a modern approach to how applications are deployed, managed, and the infrastructure they run on.</h1>
 <h1 align="center"> We have been in business for over 20 years helping customers build secure environment to deploy their application. </h1>
 <hr>
 <br>
