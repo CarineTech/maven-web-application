@@ -33,12 +33,12 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mylandmarklogo.png" alt="" width="1">
 	</span>
 	<span style="font-weight: bold;">
-                Carine Tech, 
-		Toronto, Canada
-		+1 437 215 2483,
-		carinetech@gmail.com
+                www.highvail.com
+               HighVail Systems Inc.
+        1 St Clair Ave W, Toronto ON M4V 1K6 · 2.8 mi
+            +1 416-867-3000
 		<br>
-		<a href="mailto:carinetech@gmail.com">Mail to Carine  Tech</a>
+		<a href="mailto:highvail@gmail.com">Mail to HighVail Systems Inc</a>
 	</span>
 </div>
 <hr>
