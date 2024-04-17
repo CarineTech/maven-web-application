@@ -101,7 +101,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.222.251.144:3000/repository/snapshot/</url>
+	      <url>http://15.222.251.144:3000/repository/snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
